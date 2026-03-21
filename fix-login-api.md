@@ -10,3 +10,8 @@ credentials are submitted.
 - Validated authentication flow
 
 Jira Ticket: KAN-6
+## Status
+- Fix implemented and ready for review
+- PR raised for KAN-6 Login API fix
+- Tested authentication endpoint
+- Ready to merge
