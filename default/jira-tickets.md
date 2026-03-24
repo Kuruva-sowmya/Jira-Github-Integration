@@ -1,4 +1,4 @@
-# Jira Tickets Report - Project KAN
+# Jira Tickets Report - KAN Project
 
 **Generated Date:** 2025-01-22
 
@@ -27,7 +27,9 @@
 - **Priority:** Highest
 - **Assignee:** Unassigned
 - **Days to Close:** N/A
-- **Description:** The signup page allows users to submit the form without proper email validation. Validation rules need to be implemented correctly.
+
+**Description:**
+The signup page allows users to submit the form without proper email validation. Validation rules need to be implemented correctly.
 
 ---
 
@@ -38,7 +40,9 @@
 - **Priority:** High
 - **Assignee:** Unassigned
 - **Days to Close:** N/A
-- **Description:** Users are unable to log in because the authentication API is returning a 500 internal server error. This needs investigation and fix.
+
+**Description:**
+Users are unable to log in because the authentication API is returning a 500 internal server error. This needs investigation and fix.
 
 ---
 
@@ -49,7 +53,9 @@
 - **Priority:** High
 - **Assignee:** Unassigned
 - **Days to Close:** N/A
-- **Description:** I am facing an issue while trying to connect to Jira using an API token. What I tried: - Used correct Jira instance URL - Generated API token from my Atlassian account - Used my email ID as username Expected Result: Connection should be successful. Actual Result: Connection is failing. Impact: Unable to proceed with Jira integration work. Additional Notes: I am new to Jira and this is my first issue.
+
+**Description:**
+I am facing an issue while trying to connect to Jira using an API token. What I tried: - Used correct Jira instance URL - Generated API token from my Atlassian account - Used my email ID as username Expected Result: Connection should be successful. Actual Result: Connection is failing. Impact: Unable to proceed with Jira integration work. Additional Notes: I am new to Jira and this is my first issue.
 
 ---
 
@@ -60,7 +66,9 @@
 - **Priority:** Medium
 - **Assignee:** Unassigned
 - **Days to Close:** N/A
-- **Description:** No description provided
+
+**Description:**
+No description provided.
 
 ---
 
@@ -71,7 +79,9 @@
 - **Priority:** Medium
 - **Assignee:** Unassigned
 - **Days to Close:** N/A
-- **Description:** No description provided
+
+**Description:**
+No description provided.
 
 ---
 
@@ -82,7 +92,9 @@
 - **Priority:** Medium
 - **Assignee:** Kuruva Sowmya
 - **Days to Close:** N/A
-- **Description:** No description provided
+
+**Description:**
+No description provided.
 
 ---
 
@@ -93,18 +105,20 @@
 - **Priority:** Medium
 - **Assignee:** Unassigned
 - **Days to Close:** N/A
-- **Description:** No description provided
+
+**Description:**
+No description provided.
 
 ---
 
 ## Audit Log
 
-- **Action:** Jira tickets fetched from project KAN
+- **Action:** Fetched Jira tickets from project KAN
 - **Timestamp:** 2025-01-22
 - **Jira Instance:** https://kuruvasowmya.atlassian.net
-- **Total Tickets Retrieved:** 7
-- **Upload Status:** Successful
-- **GitHub Repository:** Kuruva-sowmya/Jira-Github-Integration
-- **Branch:** main
+- **Authentication:** API Token (SOC2/ISO27001 Compliant)
+- **Total Records Retrieved:** 7
+- **Upload Target:** GitHub Repository - Kuruva-sowmya/Jira-Github-Integration
 - **File Name:** jira-tickets.md
-- **Compliance:** SOC2 and ISO27001 compliant process followed
+- **Branch:** main
+- **Compliance Status:** All actions logged for audit trail
