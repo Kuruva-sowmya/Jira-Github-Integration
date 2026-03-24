@@ -1,4 +1,4 @@
-# Jira Tickets Report - KAN Project
+# Jira Tickets Report - Project KAN
 
 **Generated Date:** 2025-01-22
 
@@ -20,7 +20,7 @@
 
 ## Issue Details
 
-### KAN-7 - Signup form validation issue
+### KAN-7: Signup form validation issue
 
 - **Type:** Task
 - **Status:** To Do
@@ -31,7 +31,7 @@
 
 ---
 
-### KAN-6 - Login API not responding
+### KAN-6: Login API not responding
 
 - **Type:** Task
 - **Status:** To Do
@@ -42,7 +42,7 @@
 
 ---
 
-### KAN-5 - Unable to connect to Jira using API token
+### KAN-5: Unable to connect to Jira using API token
 
 - **Type:** Task
 - **Status:** To Do
@@ -53,7 +53,7 @@
 
 ---
 
-### KAN-4 - email issue
+### KAN-4: email issue
 
 - **Type:** Story
 - **Status:** In Progress
@@ -64,7 +64,7 @@
 
 ---
 
-### KAN-3 - email issue
+### KAN-3: email issue
 
 - **Type:** Epic
 - **Status:** To Do
@@ -75,7 +75,7 @@
 
 ---
 
-### KAN-2 - Task1
+### KAN-2: Task1
 
 - **Type:** Subtask
 - **Status:** To Do
@@ -86,7 +86,7 @@
 
 ---
 
-### KAN-1 - Just a trial
+### KAN-1: Just a trial
 
 - **Type:** Story
 - **Status:** To Do
@@ -99,12 +99,12 @@
 
 ## Audit Log
 
-- **Jira Authentication:** Successful
-- **Jira URL:** https://kuruvasowmya.atlassian.net
-- **Project Key:** KAN
-- **Total Issues Fetched:** 7
+- **Action:** Jira tickets fetched from project KAN
+- **Timestamp:** 2025-01-22
+- **Jira Instance:** https://kuruvasowmya.atlassian.net
+- **Total Tickets Retrieved:** 7
+- **Upload Status:** Successful
 - **GitHub Repository:** Kuruva-sowmya/Jira-Github-Integration
 - **Branch:** main
 - **File Name:** jira-tickets.md
-- **Upload Status:** Completed
 - **Compliance:** SOC2 and ISO27001 compliant process followed
