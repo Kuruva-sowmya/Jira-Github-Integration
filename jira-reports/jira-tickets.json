@@ -1,0 +1,61 @@
+{
+  "project": "KAN",
+  "project_name": "My Kanban Project",
+  "total_tickets": 7,
+  "summary_statistics": {
+    "by_status": {
+      "To Do": 6,
+      "In Progress": 1
+    },
+    "by_priority": {
+      "Highest": 1,
+      "High": 2,
+      "Medium": 4
+    }
+  },
+  "tickets": [
+    {
+      "id": "KAN-1",
+      "summary": "Just a trial",
+      "status": "To Do",
+      "priority": "Medium",
+      "assignee": "Unassigned"
+    },
+    {
+      "id": "KAN-3",
+      "summary": "email issue",
+      "status": "To Do",
+      "priority": "Medium",
+      "assignee": "Unassigned"
+    },
+    {
+      "id": "KAN-4",
+      "summary": "email issue",
+      "status": "To Do",
+      "priority": "Medium",
+      "assignee": "Unassigned"
+    },
+    {
+      "id": "KAN-5",
+      "summary": "Unable to connect to Jira using API token",
+      "status": "To Do",
+      "priority": "High",
+      "assignee": "Unassigned"
+    },
+    {
+      "id": "KAN-6",
+      "summary": "Login API not responding",
+      "status": "To Do",
+      "priority": "High",
+      "assignee": "Unassigned"
+    },
+    {
+      "id": "KAN-7",
+      "summary": "Signup form validation issue",
+      "status": "To Do",
+      "priority": "Highest",
+      "assignee": "Unassigned"
+    }
+  ],
+  "last_synced": "2026-03-24"
+}
